@@ -16,15 +16,15 @@
     ],
     "require": {
         "php": "^7.1.3",
-        "symfony/intl": "^2.3|^3.0",
-        "symfony/config": "^2.3|^3.0",
+        "symfony/intl": "^5.3",
+        "symfony/config": "^5.3",
         "symfony/translation": "^4.4",
-        "symfony/yaml": "^2.3|^3.0"
+        "symfony/yaml": "^5.3"
     },
     "require-dev": {
         "thunderer/shortcode": "~0.5",
-        "phpspec/phpspec": "^2",
-        "phpunit/phpunit": "^4.5|^5.0"
+        "phpspec/phpspec": "^7.1",
+        "phpunit/phpunit": "^7.0"
     },
     "config": {
         "bin-dir": "bin"
